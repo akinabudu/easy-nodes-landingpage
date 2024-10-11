@@ -19,7 +19,7 @@ const Home = () => {
           </div>
           <Link href="https://t.me/easy_nodes_bot" target="_blank">
             <Button variant="default" className="hover:bg-[#0052FF] bg-[#627EEA] font-bold text-lg py-6 px-6 text-white transition-all duration-300 transform hover:scale-105 font-mono">
-              Subscribe
+              Get Started
             </Button>
           </Link>
         </header>
@@ -42,7 +42,7 @@ const Home = () => {
             </ul>
             <Link href="https://t.me/easy_nodes_bot" target="_blank">
               <Button variant="default" className="px-8 py-4 lg:px-16 lg:py-10 font-bold text-xl lg:text-2xl bg-[#627EEA] hover:bg-[#0052FF] text-white transition-all duration-300 transform hover:scale-105 font-mono">
-                Subscribe now
+                Get Started
               </Button>
             </Link>
           </div>
